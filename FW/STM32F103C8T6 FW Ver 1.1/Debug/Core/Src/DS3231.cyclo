@@ -1,0 +1,13 @@
+../Core/Src/DS3231.c:16:6:DS3231_Init	1
+../Core/Src/DS3231.c:21:6:DS3231_GetTime	2
+../Core/Src/DS3231.c:34:6:DS3231_SetTime	2
+../Core/Src/DS3231.c:48:6:is_leap_year	4
+../Core/Src/DS3231.c:53:9:get_days_in_month	3
+../Core/Src/DS3231.c:60:6:DS3231_Calibration	6
+../Core/Src/DS3231.c:109:6:DS3231_ReadTemperature	3
+../Core/Src/DS3231.c:124:6:DS3231_SetAlarm1	6
+../Core/Src/DS3231.c:172:6:DS3231_ClearAlarm1	1
+../Core/Src/DS3231.c:190:6:ReadRegister	3
+../Core/Src/DS3231.c:198:6:WriteRegister	2
+../Core/Src/DS3231.c:206:9:D2B	1
+../Core/Src/DS3231.c:211:5:B2D	1

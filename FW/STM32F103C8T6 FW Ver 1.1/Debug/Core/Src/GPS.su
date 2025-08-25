@@ -1,0 +1,5 @@
+../Core/Src/GPS.c:27:9:M6N_UBX_NAV_TIMEUTC_Parsing	16	static
+../Core/Src/GPS.c:58:15:M6N_UBX_CHKSUM_Check	24	static
+../Core/Src/GPS.c:71:9:Check_Time_Valid	16	static
+../Core/Src/GPS.c:77:6:M6N_TransmitData	16	static
+../Core/Src/GPS.c:82:6:M6N_Init	8	static

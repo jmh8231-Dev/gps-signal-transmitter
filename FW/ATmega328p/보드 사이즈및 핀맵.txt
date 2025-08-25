@@ -1,0 +1,31 @@
+//GPS 무선 송신 모듈 설계서(ATmega328p) 개선버전
+
+/****************************************/
+보드 사이즈
+가로: 약98mm
+세로: 약130mm
+/****************************************/
+핀맵(MCU: ATmega328p) - 부트로더 나노
+0번핀(PD0) - UART: UART Rx(STM32로 특정 데이터 수신)
+1번핀(PD1) - UART: UART Tx(STM32로 특정 데이터 송신)
+2번핀(PD2) - INPUT: SW1
+3번핀(PD3) - INPUT: SW2
+4번핀(PD4) - OUTPUT: DebugLED
+5번핀(PD5) - OUTPUT: FET
+6번핀(PD6) - N.C
+7번핀(PD7) - INPUT: Data(송신 타이밍용핀)
+8번핀(PB0) - I/O PUT: DHT22
+9번핀(PB1) - I/O PUT: nRF24L01 CE
+10번핀(PB2) - I/O PUT: nRF24L01 CSN
+11번핀(PB3) - SPI: MOSI
+12번핀(PB4) - SPI: MISO
+13번핀(PB5) - SPI: SCK
+14번핀(PC0) - OUTPUT: MIN LED
+15번핀(PC1) - OUTPUT: LOW LED
+16번핀(PC2) - OUTPUT: HIGH LED
+17번핀(PC3) - OUTPUT: MAX LED
+18번핀(PC4) - CDS
+19번핀(PC5) - N.C
+ADC6: N.C
+ADC7: N.C
+/****************************************/

@@ -1,0 +1,3 @@
+//GPS 무선 송신 모듈 설계서(STM32F1C8T6) 개선버전
+
+I2C1: 24LC32(EEPROM), DS3231(RTC)
