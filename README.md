@@ -118,7 +118,3 @@ gps-tx/
 ![Running](docs/images/photo_running.jpg)
 
 ---
-
-## 9. 라이선스
-
-내부 프로젝트 정책에 따르며, 외부 라이브러리(예: STM32 HAL, u‑blox 프로토콜 참조)의 라이선스는 각 디렉터리에 명시한다.
